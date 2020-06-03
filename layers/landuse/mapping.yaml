@@ -74,6 +74,7 @@ tables:
       - industrial
       - garages
       - retail
+      - quarry
       amenity:
       - bus_station
       - school
